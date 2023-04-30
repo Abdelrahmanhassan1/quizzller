@@ -1,16 +1,11 @@
 # quizzller
 
-A new Flutter project.
+<img src="./readme_assets/Quizzler.png" width="500" />
 
-## Getting Started
+A quiz app that tests your general knowledge with true or false questions with scoreboard.
 
-This project is a starting point for a Flutter application.
+## Dependencies
 
-A few resources to get you started if this is your first Flutter project:
+- <a href= "https://pub.dev/packages/rflutter_alert">rflutter_alert</a>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Demo
